@@ -6,3 +6,5 @@ Rangkuman Materi:
 - Membuat branch baru pada github
 - Melakukan commit antar branch dan melakukan commit changes
 - Menghubungkan github dengan git bash untuk dapat dibuka pada VS Code
+
+yes
